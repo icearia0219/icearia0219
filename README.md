@@ -6,6 +6,15 @@ I build practical tools around AI agents and knowledge systems, with a focus on 
 
 关注 AI Agent 与知识系统，喜欢把想法做成可用、可检查的工具。
 
+## Selected Open Source Contributions
+
+Merged fixes for agent runtime and tool execution.
+
+| Project | Contribution | Pull request |
+| --- | --- | --- |
+| [Agno](https://github.com/agno-agi/agno) | Fixed Python tool handling of `None` results so existing variables are not reported as missing; added regression tests. | [#10637](https://github.com/agno-agi/agno/pull/10637) · Merged |
+| [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) | Prevented confirmation input from blocking the asyncio event loop; added a regression test. | [#1705](https://github.com/i-am-bee/beeai-framework/pull/1705) · Merged |
+
 ## Featured Projects
 
 - [dsh-memory-spaces](https://github.com/icearia0219/dsh-memory-spaces)  
