@@ -12,6 +12,7 @@ Merged fixes for agent runtime and tool execution.
 
 | Project | Contribution | Pull request |
 | --- | --- | --- |
+| [Tencent WeKnora](https://github.com/Tencent/WeKnora) | Fixed Agent tool string-length validation to count Unicode code points instead of UTF-8 bytes, covering Chinese text and emoji; added regression tests. | [#3937](https://github.com/Tencent/WeKnora/pull/3937) · Merged |
 | [Agno](https://github.com/agno-agi/agno) | Fixed Python tool handling of `None` results so existing variables are not reported as missing; added regression tests. | [#10637](https://github.com/agno-agi/agno/pull/10637) · Merged |
 | [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) | Prevented confirmation input from blocking the asyncio event loop; added a regression test. | [#1705](https://github.com/i-am-bee/beeai-framework/pull/1705) · Merged |
 
