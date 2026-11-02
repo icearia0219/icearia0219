@@ -1,0 +1,30 @@
+{
+  "username": "icearia0219",
+  "name": "澍",
+  "latin": "icearia0219",
+  "eyebrow": "AI AGENTS / RAG / OPEN SOURCE",
+  "tagline": "专注 Agent 运行时、工具调用与知识检索。",
+  "sub": "从可复现的问题出发，用修复与回归测试改善真实的使用体验。",
+  "theme": "t1",
+  "accent": "blue",
+  "mode": "auto",
+  "language": "zh",
+  "projects": [
+    {
+      "name": "dsh-memory-spaces",
+      "url": "https://github.com/icearia0219/dsh-memory-spaces",
+      "description": "为 DeepSeek Harness 构建由用户掌控的本地记忆空间：显式分享、可预览召回、版本记录与来源追溯。"
+    },
+    {
+      "name": "haiku.rag · Fork",
+      "url": "https://github.com/icearia0219/haiku.rag",
+      "description": "围绕本地文档搜索与 RAG 做探索和改进；向上游提交的向量距离配置修复已合并。"
+    }
+  ],
+  "links": [
+    {
+      "name": "Email",
+      "url": "mailto:1749504068@qq.com"
+    }
+  ]
+}
