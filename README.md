@@ -10,7 +10,7 @@
 </picture>
 <!-- CONTRIB:END -->
 
-截至 **2026-11-02**，在账号名下仓库之外的 **6 个公开仓库**中，有 **20 份作者 PR 已合并**，其中 **腾讯 WeKnora 15 份**。统计不含开放、关闭未合并和仅共同署名的 PR。
+截至 **2026-11-02**，在账号名下仓库之外的 **6 个公开仓库**中，有 **23 份作者 PR 已合并**，其中 **腾讯 WeKnora 18 份**。统计不含开放、关闭未合并和仅共同署名的 PR。
 
 [查看已合并 PR](https://github.com/search?q=author%3Aicearia0219+is%3Apr+is%3Amerged+is%3Apublic+-user%3Aicearia0219&type=pullrequests) · [查看进行中的贡献](https://github.com/search?q=author%3Aicearia0219+is%3Apr+is%3Aopen+is%3Apublic&type=pullrequests)
 

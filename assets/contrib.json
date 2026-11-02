@@ -3,8 +3,8 @@
   "scope": "upstream",
   "visibility": "public",
   "query": "author:icearia0219 type:pr is:merged is:public -user:icearia0219",
-  "total_merged": 20,
-  "last_merged": "2026-10",
+  "total_merged": 23,
+  "last_merged": "2026-11",
   "complete": true,
   "repo_count": 6,
   "repos": [
@@ -19,7 +19,7 @@
         "mime": "image/png"
       },
       "logo_src": "avatar",
-      "prs": 15,
+      "prs": 18,
       "prs_exact": true
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 21940,
+      "stars": 21941,
       "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "owner": "awesome-dsh-plugin",
       "logo": {
@@ -93,5 +93,5 @@
       "prs_exact": true
     }
   ],
-  "generated_at": "2026-11-02T06:41:37.819634+00:00"
+  "generated_at": "2026-11-02T06:51:42.550226+00:00"
 }
