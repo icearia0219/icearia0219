@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="付雨嫣 · 专注 Agent 运行时、工具调用与知识检索。 · 从可复现的问题出发，用修复与回归测试改善真实的使用体验。">
+  <img src="./assets/hero-light.svg" width="100%" alt="澍 · 专注 Agent 运行时、工具调用与知识检索。 · 从可复现的问题出发，用修复与回归测试改善真实的使用体验。">
 </picture>
 
 <!-- CONTRIB:BEGIN -->
